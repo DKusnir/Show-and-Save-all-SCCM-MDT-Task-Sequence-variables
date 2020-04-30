@@ -18,9 +18,10 @@ This is just a small utility that helps me to check all Task Sequence variables 
 Version History 
 
 ===============================
+
+Version 4.0.1.8 (Current Version) - Added Task Sequence Comparator - Simple viewer to compare 2 task sequences side by side. Update check now connects and downloads new version directly from Github. Improved Task Sequence Viewer Auto-refresh ( Still experimental ). Added ability to rezise window with Alt+Enter. Fix - Opening Task Sequence Viewer no longer disables the Toolstrip.  Fix - Error lookup no longer disabled in the strip when outside SCCM environment. Added help switch '/?' to dump help to the log. Minor bug fixes & UI Changes
  
- 
-Version 4.0.1.7 (Current Version) - Added ability to work concurrently with Error Lookup. Added support for some new conditions in Task Sequence Viewer. Minor bug fixes
+Version 4.0.1.7 - Added ability to work concurrently with Error Lookup. Added support for some new conditions in Task Sequence Viewer. Minor bug fixes
 
 Version 4.0.1.6 - Fix Task Sequence Viewer disabled  sub-groups & sub-Steps. Recursing for disabled sub-groups and child steps now shows nodes correctly. Disabled CheckBox now also shown correctly. Fixed some MDT steps that were shown incorrecly. Other minor bug fixes 
 
