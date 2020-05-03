@@ -18,6 +18,7 @@ This is just a small utility that helps me to check all Task Sequence variables 
 Version History 
 
 ===============================
+ 
 Version 4.0.1.9 (Current Version) - Added ability to unlock and edit text inside the console. Added support for Drag & Drop files to the console & TSViewer. Added description to log collector about collected logs and their location. Form now dragable. Fixed huge number of bugs
 
 Version 4.0.1.8 - Added Task Sequence Comparator - Simple viewer to compare 2 task sequences side by side. Update check now connects and downloads new version directly from Github. Improved Task Sequence Viewer Auto-refresh ( Still experimental ). Added ability to rezise window with Alt+Enter. Fix - Opening Task Sequence Viewer no longer disables the Toolstrip.  Fix - Error lookup no longer disabled in the strip when outside SCCM environment. Added help switch '/?' to dump help to the log. Minor bug fixes & UI Changes
