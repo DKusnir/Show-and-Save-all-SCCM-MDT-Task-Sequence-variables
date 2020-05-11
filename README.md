@@ -1,6 +1,6 @@
 # Show-and-Save-all-SCCM-MDT-Task-Sequence-variables
  
-View, Create, Edit or Save all MDT & SCCM Task Sequence variables. Normal & Secure mode. Online & Offline Task Sequence viewer. Logs Collector. Debugger tool
+View, Create, Edit or Save all MDT & SCCM Task Sequence variables. Normal & Secure mode. Online & Offline Task Sequence viewer. Logs Collector. Debugger tool. Task sequence comparator tool
  
  
  
