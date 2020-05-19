@@ -19,13 +19,14 @@ Version History
 
 ===============================
 
-Version 4.0.2.1 (Current Version) - 
- 
-- Fix issue when TS Varialbes may not show correctly. 
-- Fix opening Create & Edit task sequence windows 
-- Fix when Task sequence may not generate task sequence online. 
-- TS Comparator disabled when TS in Progress 
-- Multiple bug fixes
+Version 4.0.2.2 (Current Version) -
+
+- Fix Exporting MDT Task Sequences
+- Added Commandline and PowerShell console. 
+- Fix Task Sequence Comparator version saving. 
+- Minor Bug fixes
+
+Version 4.0.2.1 - Fix issue when TS Varialbes may not show correctly. Fix opening Create & Edit task sequence windows. Fix when Task sequence may not generate task sequence online. TS Comparator disabled when TS in Progress. Multiple bug fixes
  
 Version 4.0.2.0 - All tool settings now saved in one place in Theme > Settings - Fix. Corrected Task Sequence Viewer when conditions were not showing at all. Themes redesign. Minor bug fixes
  
