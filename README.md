@@ -28,6 +28,8 @@ Version 4.0.2.3 (Current Version)
 - Added ability to read logs in the console during in-progess Task Sequence 
 - Added silent switch /v to auto-start app with variables tracker ( see help for detailed description )
 
+![ScreenShot](https://github.com/DKusnir/Show-and-Save-all-SCCM-MDT-Task-Sequence-variables/blob/master/screenshot02.png)
+
 
 Version 4.0.2.2 - Fix Exporting MDT Task Sequences. Added Commandline and PowerShell console. Fix Task Sequence Comparator version saving. Minor Bug fixes
 
