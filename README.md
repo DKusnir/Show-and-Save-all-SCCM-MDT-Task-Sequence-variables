@@ -4,7 +4,7 @@ View, Create, Edit or Save all MDT & SCCM Task Sequence variables. Normal & Secu
  
  
  
-![ScreenShot](https://github.com/DKusnir/Show-and-Save-all-SCCM-MDT-Task-Sequence-variables/blob/master/screenshot.png)
+![ScreenShot](https://github.com/DKusnir/Show-and-Save-all-SCCM-MDT-Task-Sequence-variables/blob/master/screenshot.PNG)
 
  
  
