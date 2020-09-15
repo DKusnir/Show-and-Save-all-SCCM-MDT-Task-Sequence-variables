@@ -18,13 +18,17 @@ This is just a small utility that helps me to check all Task Sequence variables 
 Version History 
 
 ===============================
+Version 4.0.2.3 (Current Version)
 
-Version 4.0.2.2 (Current Version) -
+- /? now output Help to the console 
+- Fix resolution on 4k displays. 
+- Improvments & Bug fixes 
+- Added Variables tracker - Ability to monitor task sequence variable changes during the deployment process 
+- Added ability to read logs in the console during in-progess Task Sequence 
+- Added silent switch /v to auto-start app with variables tracker ( see help for detailed description )
 
-- Fix Exporting MDT Task Sequences
-- Added Commandline and PowerShell console. 
-- Fix Task Sequence Comparator version saving. 
-- Minor Bug fixes
+
+Version 4.0.2.2 - Fix Exporting MDT Task Sequences. Added Commandline and PowerShell console. Fix Task Sequence Comparator version saving. Minor Bug fixes
 
 Version 4.0.2.1 - Fix issue when TS Varialbes may not show correctly. Fix opening Create & Edit task sequence windows. Fix when Task sequence may not generate task sequence online. TS Comparator disabled when TS in Progress. Multiple bug fixes
  
