@@ -17,7 +17,8 @@ This is just a small utility that helps me to check all Task Sequence variables 
  
 Version History 
 
-===============================
+=============================== 
+ 
 Version 4.0.2.3 (Current Version)
 
 - /? now output Help to the console 
